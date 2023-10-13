@@ -27,7 +27,7 @@ and then run the JAR file, as follows:
 ```
 java -jar target/gs-serving-web-content-0.1.0.jar
 ```
-In a browser, navigate to localhost:8080/location to view the severlet response.
+In a browser, navigate to localhost:8080/location to view the servlet response.
 
 ### References:
 https://stackoverflow.com/questions/55978959/how-can-i-register-a-servlet-with-spring-boot
